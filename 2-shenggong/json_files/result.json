@@ -1,0 +1,55 @@
+{
+    "filename": "class_8_100_20240722_205627.csv",
+    "top_sequences": [
+        {
+            "Promoter sequences": "AAGGCTACTGTTGGCTTTTTTCGTAAAGTGTGTGG",
+            "Predicted Strength": 0.0268147,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "AAGGTAACTTTGATCGGCGATTTTAAAATGTGTGG",
+            "Predicted Strength": 9.691715e-05,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "GAGATTGATACTCCAGCCGAATTTACACTGTGTGG",
+            "Predicted Strength": 0.01421988,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "TATATACCAGCAGGAGACGAATTTACAGTGTGTGG",
+            "Predicted Strength": 0.0060737133,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "AAGGTTGCAGCAAAAGAGGGATTTACATTGTGTGG",
+            "Predicted Strength": 0.022470117,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "GAGATAGAATCTAAAGACGATGTGAAAAGGTGTGG",
+            "Predicted Strength": 0.02139175,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "CAGGTATCGTAATTTTCAATCTCTAAATTGTGTGG",
+            "Predicted Strength": 0.017924666,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "CAGGTTGCAACAAAAGCCGATTTTACACTGTGTGG",
+            "Predicted Strength": 0.019661546,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "CAGGCAACACCAAGTGCCGATTTTACAGTGTGTGG",
+            "Predicted Strength": 0.02493453,
+            "Score": 100.0
+        },
+        {
+            "Promoter sequences": "ATGGTAAATGGATCTGCAAAATTTACATTGTGTGG",
+            "Predicted Strength": 0.010665059,
+            "Score": 100.0
+        }
+    ]
+}
