@@ -6,7 +6,7 @@
 ## 项目概述
 
 本项目旨在提供一个稳健且可扩展的平台，利用AI技术生成合成DNA序列。该平台设计为用户友好型，并通过Docker实现便捷的部署，使得研究人员和开发者都能轻松使用。
-[www.](http://www.yudenglab.com/)
+(http://www.yudenglab.com/)
 
 ## 主要功能
 
